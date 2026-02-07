@@ -15,7 +15,7 @@ Before you begin, make sure you have the following installed on your system:
 1. Clone the Wanderlust repository from GitHub:
 
    ```
-   git clone https://github.com/SufiyanAhmad2025/Wanderlust.git
+   git https://github.com/SufiyanAhmad2025/Wanderlust.git
    ```
 
 2. Set up the database:
